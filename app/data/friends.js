@@ -6,8 +6,7 @@
 // ===============================================================================
 var friends = [
   {
-      "name":"Owen",
-      "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+      "name":"",
       "scores":[
          5,
          1,
@@ -22,8 +21,7 @@ var friends = [
           ]
       },
   {
-  "name":"Pavan",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"",
   "scores":[
      5,
      1,
@@ -38,8 +36,7 @@ var friends = [
       ]
 },
 {
-  "name":"Angel",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"",
   "scores":[
      9,
      1,
@@ -54,8 +51,7 @@ var friends = [
       ]
 },
 {
-  "name":"Karina",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"",
   "scores":[
      5,
      1,
@@ -70,8 +66,7 @@ var friends = [
       ]
 },
 {
-  "name":"Miriam",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"",
   "scores":[
      5,
      1,
@@ -86,8 +81,7 @@ var friends = [
       ]
 },
 {
-  "name":"Lisa",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"",
   "scores":[
      5,
      1,
@@ -102,8 +96,7 @@ var friends = [
       ]
 },
 {
-  "name":"Nicole",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"",
   "scores":[
      5,
      1,
@@ -118,8 +111,7 @@ var friends = [
       ]
 },
 {
-  "name":"Jason",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"",
   "scores":[
      5,
      1,
@@ -134,8 +126,7 @@ var friends = [
       ]
 },
 {
-  "name":"Nate",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"",
   "scores":[
      5,
      1,
@@ -150,8 +141,7 @@ var friends = [
       ]
 },
 {
-  "name":"Ken",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"",
   "scores":[
      5,
      1,
